@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#Simple Password Generator 
+#Simple Strong Password Generator 
 
 echo "Hi Welcome to Password Generator"
 
